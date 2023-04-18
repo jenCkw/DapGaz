@@ -1,4 +1,4 @@
-
+import Header from '@/components/Header'
 import Hero from '@/components/Hero'
 import Head from 'next/head'
 import { Be_Vietnam_Pro } from 'next/font/google'
@@ -35,4 +35,3 @@ export default function Home() {
     </>
   )
 }
-
